@@ -98,7 +98,10 @@ p{
   color: seashell;
   align-items: center;
   justify-content: center;
-  background-image: url(./resources/images/img-locations-background.jpg);
+  background-image: url(images/img-locations-background.jpg);
+  height: 500px;
+  width: 1200px;
+  margin-left: 90.5px;
 }
 
 .location{
@@ -109,7 +112,7 @@ p{
   justify-content: center;
   align-items: center;
   opacity: 1.0px;
-  border: 4px solid white;
+  border: 4px solid black;
   height: 300px;
   width: 300px;
   float: left;
@@ -130,6 +133,8 @@ h3{
   color: seashell;
 }
 
-img{
-  margin-left: 100px;
+.footer{
+  color: seashell;
+  font-family: Helvetica;
+  text-align: center;
 }
