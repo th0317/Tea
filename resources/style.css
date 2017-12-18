@@ -138,3 +138,10 @@ h3{
   font-family: Helvetica;
   text-align: center;
 }
+
+.copyright{
+  color: seashell;
+  font-family: Helvetica;
+  text-align: left;
+  margin-left: 20px;
+}
